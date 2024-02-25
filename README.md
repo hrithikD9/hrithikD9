@@ -1,3 +1,4 @@
+![logo](https://github.com/hrithikD9/hrithikD9/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hrithik Dev Nath</h1>
 <h3 align="center">A passionate programmer from Bangladesh.</h3>
 
