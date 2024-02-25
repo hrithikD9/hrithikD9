@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning Java
 
-- 📫 How to reach me **hrithikdevnath0924@gmail.com**
+- 📫 How to reach me hrithikdevnath0924@gmail.com
 
-- ⚡ Fun fact **Programmimng is total fun 👾**
+- ⚡ Fun fact Programmimng is total fun 👾
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +28,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithikd9&show_icons=true&locale=en&layout=compact" alt="hrithikd9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithikd9&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hrithikd9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikd9&show_icons=true&locale=en" alt="hrithikd9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikd9&show_icons=true&locale=en&theme=algolia" alt="hrithikd9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikd9&" alt="hrithikd9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikd9&theme=algolia" alt="hrithikd9" /></p>
