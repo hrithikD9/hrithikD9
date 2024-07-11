@@ -12,7 +12,7 @@
 
 - 📫 Reach me hrithikdevnath0924@gmail.com
 
-- ⚡ Fact Programmimng is part and parcel of life 👾
+- ⚡Programmimng is part and parcel of life
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
