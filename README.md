@@ -2,7 +2,7 @@
 <h1 align="center">Hiii 👋, I'm Hrithik Dev Nath</h1>
 <h3 align="center">A Passionate Programmer From Bangladesh.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/39Cg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikd9&label=Profile%20views&color=0e75b6&style=flat" alt="hrithikd9" /> </p>
 
@@ -41,11 +41,11 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithikd9&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hrithikd9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithikD9&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hrithikD9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikd9&show_icons=true&locale=en&theme=algolia" alt="hrithikd9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikD9&show_icons=true&locale=en&theme=algolia" alt="hrithikD9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikd9&theme=algolia" alt="hrithikd9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikD9&theme=algolia" alt="hrithikD9" /></p>
 
 ###
 
