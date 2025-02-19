@@ -46,3 +46,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikd9&show_icons=true&locale=en&theme=algolia" alt="hrithikd9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikd9&theme=algolia" alt="hrithikd9" /></p>
+
+<img src="https://raw.githubusercontent.com/hrithikD9/hrithikD9/main/snake.svg" alt="Snake animation" />
