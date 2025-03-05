@@ -12,7 +12,7 @@
 
 - 📫 Reach me hrithikdevnath0924@gmail.com
 
-- ⚡Programmimng is part and parcel of my life
+- ⚡ Life runs on code, and so do I.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,16 +36,33 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithikd9&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hrithikd9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikd9&show_icons=true&locale=en&theme=algolia" alt="hrithikd9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikd9&theme=algolia" alt="hrithikd9" /></p>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=hrithikD9&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hrithikD9&theme=redical&hide_border=true" alt="Contribution Graph" />
 
 ###
 
