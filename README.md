@@ -1,6 +1,7 @@
 ![logo](https://github.com/hrithikD9/hrithikD9/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
-<h1 align="center">Hiii 👋, I'm Hrithik Dev Nath</h1>
-<h3 align="center">A Passionate Programmer From Bangladesh.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF69B4&size=40&center=true&vCenter=true&width=600&height=100&lines=Hey!+I'm+Hrithik+%F0%9F%91%8B;A+Competitive+Programmer...;Developer+too..." />
+</div>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
