@@ -26,7 +26,7 @@
 
 ```yaml
 name: Hrithik Dev Nath
-location: India
+location: Bangladesh
 roles:
   - Competitive Programmer
   - Full-Stack Developer
