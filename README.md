@@ -109,7 +109,7 @@ motto: "Life runs on code, and so do I 🚀"
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithikd9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff" width="40%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=hrithikD9&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="55%" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=hrithikd9&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="55%" alt="Top Contributed Repos" />
 </div>
 
 ---
@@ -125,7 +125,7 @@ motto: "Life runs on code, and so do I 🚀"
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrithikD9&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrithikd9&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -133,7 +133,7 @@ motto: "Life runs on code, and so do I 🚀"
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hrithikD9/hrithikD9/refs/heads/main/snake.svg" width="95%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hrithikd9/hrithikD9/refs/heads/main/snake.svg" width="95%" alt="Snake animation" />
 </div>
 
 ---
